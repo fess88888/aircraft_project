@@ -4,5 +4,5 @@
 ## Установка
 Клонируйте репозиторий
 ```
-git clone git@github.com:fess88888/
+git clone git@github.com:fess88888/aircraft_project
 ```
